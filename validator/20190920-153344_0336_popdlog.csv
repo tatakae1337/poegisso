@@ -1,0 +1,2 @@
+20190920-153345_0336_10.06.S_001.xml;ОШИБКА;"65339:78 cvc-pattern-valid: Value 'Администрация МО ""Хоринский 1 наслег!' is not facet-valid with respect to pattern '[а-яА-ЯёЁ\-0-9№(][а-яА-ЯёЁ\-\s',.0-9()№""\\/]*' for type 'rus-and-num-200'."
+20190920-153345_0336_10.06.S_001.xml;ОШИБКА;"65339:78 cvc-type.3.1.3: The value 'Администрация МО ""Хоринский 1 наслег!' of element 'ns54:Issuer' is not valid."

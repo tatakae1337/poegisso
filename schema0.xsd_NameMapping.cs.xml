@@ -1,0 +1,775 @@
+<?xml version="1.0"?>
+<MappingSchema Language="CS" CollectionMapping="Original" NamespacePrefix="">
+  <Class Name="assignment_info" LongName="assignment_info" MappedClassColName="Assignment_infoCol" MappedClassName="Assignment_info">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="serviceForm" DefaultValue="" MappedIsValidMember="m_IsValidServiceForm" MappedSetValidName="SetValidServiceForm" MappedIsValidName="IsValidServiceForm" MappedMemberName="m_ServiceForm" MappedDisplayName="serviceForm" MappedSetterName="ServiceForm" MappedGetterName="ServiceForm">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="monetary_form" DefaultValue="" MappedIsValidMember="m_IsValidMonetary_form" MappedSetValidName="SetValidMonetary_form" MappedIsValidName="IsValidMonetary_form" MappedMemberName="m_Monetary_form" MappedDisplayName="monetary_form" MappedSetterName="Monetary_form" MappedGetterName="Monetary_form">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="assignment_info" LongName="assignment_info" MappedClassColName="Assignment_infoCol" MappedClassName="Assignment_info">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="serviceForm" DefaultValue="" MappedIsValidMember="m_IsValidServiceForm" MappedSetValidName="SetValidServiceForm" MappedIsValidName="IsValidServiceForm" MappedMemberName="m_ServiceForm" MappedDisplayName="serviceForm" MappedSetterName="ServiceForm" MappedGetterName="ServiceForm">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="monetary_form" DefaultValue="" MappedIsValidMember="m_IsValidMonetary_form" MappedSetValidName="SetValidMonetary_form" MappedIsValidName="IsValidMonetary_form" MappedMemberName="m_Monetary_form" MappedDisplayName="monetary_form" MappedSetterName="Monetary_form" MappedGetterName="Monetary_form">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="BirthCertificate" LongName="BirthCertificate" MappedClassColName="BirthCertificateCol" MappedClassName="BirthCertificate">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="Series" DefaultValue="" MappedIsValidMember="m_IsValidSeries" MappedSetValidName="SetValidSeries" MappedIsValidName="IsValidSeries" MappedMemberName="m_Series" MappedDisplayName="Series" MappedSetterName="Series" MappedGetterName="Series" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Number" DefaultValue="" MappedIsValidMember="m_IsValidNumber" MappedSetValidName="SetValidNumber" MappedIsValidName="IsValidNumber" MappedMemberName="m_Number" MappedDisplayName="Number" MappedSetterName="Number" MappedGetterName="Number" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="IssueDate" DefaultValue="" MappedIsValidMember="m_IsValidIssueDate" MappedSetValidName="SetValidIssueDate" MappedIsValidName="IsValidIssueDate" MappedMemberName="m_IssueDate" MappedDisplayName="IssueDate" MappedSetterName="IssueDate" MappedGetterName="IssueDate" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Issuer" DefaultValue="" MappedIsValidMember="m_IsValidIssuer" MappedSetValidName="SetValidIssuer" MappedIsValidName="IsValidIssuer" MappedMemberName="m_Issuer" MappedDisplayName="Issuer" MappedSetterName="Issuer" MappedGetterName="Issuer" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="BirthCertificate" LongName="BirthCertificate" MappedClassColName="BirthCertificateCol" MappedClassName="BirthCertificate">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="Series" DefaultValue="" MappedIsValidMember="m_IsValidSeries" MappedSetValidName="SetValidSeries" MappedIsValidName="IsValidSeries" MappedMemberName="m_Series" MappedDisplayName="Series" MappedSetterName="Series" MappedGetterName="Series" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Number" DefaultValue="" MappedIsValidMember="m_IsValidNumber" MappedSetValidName="SetValidNumber" MappedIsValidName="IsValidNumber" MappedMemberName="m_Number" MappedDisplayName="Number" MappedSetterName="Number" MappedGetterName="Number" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="IssueDate" DefaultValue="" MappedIsValidMember="m_IsValidIssueDate" MappedSetValidName="SetValidIssueDate" MappedIsValidName="IsValidIssueDate" MappedMemberName="m_IssueDate" MappedDisplayName="IssueDate" MappedSetterName="IssueDate" MappedGetterName="IssueDate" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Issuer" DefaultValue="" MappedIsValidMember="m_IsValidIssuer" MappedSetValidName="SetValidIssuer" MappedIsValidName="IsValidIssuer" MappedMemberName="m_Issuer" MappedDisplayName="Issuer" MappedSetterName="Issuer" MappedGetterName="Issuer" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="BirthDate" LongName="BirthDate" MappedClassColName="BirthDateCol" MappedClassName="BirthDate">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the BirthDate element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'date'</Remarks>
+  </Class>
+  <Class Name="categoryID" LongName="categoryID" MappedClassColName="CategoryIDCol" MappedClassName="CategoryID">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the categoryID element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'string'</Remarks>
+  </Class>
+  <Class Name="data" LongName="data" MappedClassColName="DataCol" MappedClassName="Data">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="package" DefaultValue="" MappedIsValidMember="m_IsValidPackage" MappedSetValidName="SetValidPackage" MappedIsValidName="IsValidPackage" MappedMemberName="m_Package" MappedDisplayName="package" MappedSetterName="Package" MappedGetterName="Package">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="dateFinish" LongName="dateFinish" MappedClassColName="DateFinishCol" MappedClassName="DateFinish">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the dateFinish element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'date'</Remarks>
+  </Class>
+  <Class Name="dateStart" LongName="dateStart" MappedClassColName="DateStartCol" MappedClassName="DateStart">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the dateStart element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'date'</Remarks>
+  </Class>
+  <Class Name="decision_date" LongName="decision_date" MappedClassColName="Decision_dateCol" MappedClassName="Decision_date">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the decision_date element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'date'</Remarks>
+  </Class>
+  <Class Name="elements" LongName="elements" MappedClassColName="ElementsCol" MappedClassName="Elements">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="fact" DefaultValue="" MappedIsValidMember="m_IsValidFact" MappedSetValidName="SetValidFact" MappedIsValidName="IsValidFact" MappedMemberName="m_Fact" MappedDisplayName="fact" MappedSetterName="Fact" MappedGetterName="Fact">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="fact" LongName="fact" MappedClassColName="FactCol" MappedClassName="Fact">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="ID" DefaultValue="" MappedIsValidMember="m_IsValidID" MappedSetValidName="SetValidID" MappedIsValidName="IsValidID" MappedMemberName="m_ID" MappedDisplayName="ID" MappedSetterName="ID" MappedGetterName="ID" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="OSZCode" DefaultValue="" MappedIsValidMember="m_IsValidOSZCode" MappedSetValidName="SetValidOSZCode" MappedIsValidName="IsValidOSZCode" MappedMemberName="m_OSZCode" MappedDisplayName="OSZCode" MappedSetterName="OSZCode" MappedGetterName="OSZCode" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="MSZ_receiver" DefaultValue="" MappedIsValidMember="m_IsValidMSZ_receiver" MappedSetValidName="SetValidMSZ_receiver" MappedIsValidName="IsValidMSZ_receiver" MappedMemberName="m_MSZ_receiver" MappedDisplayName="MSZ_receiver" MappedSetterName="MSZ_receiver" MappedGetterName="MSZ_receiver">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="reason_persons" DefaultValue="" MappedIsValidMember="m_IsValidReason_persons" MappedSetValidName="SetValidReason_persons" MappedIsValidName="IsValidReason_persons" MappedMemberName="m_Reason_persons" MappedDisplayName="reason_persons" MappedSetterName="Reason_persons" MappedGetterName="Reason_persons">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="LMSZID" DefaultValue="" MappedIsValidMember="m_IsValidLMSZID" MappedSetValidName="SetValidLMSZID" MappedIsValidName="IsValidLMSZID" MappedMemberName="m_LMSZID" MappedDisplayName="LMSZID" MappedSetterName="LMSZID" MappedGetterName="LMSZID" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="categoryID" DefaultValue="" MappedIsValidMember="m_IsValidCategoryID" MappedSetValidName="SetValidCategoryID" MappedIsValidName="IsValidCategoryID" MappedMemberName="m_CategoryID" MappedDisplayName="categoryID" MappedSetterName="CategoryID" MappedGetterName="CategoryID" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="decision_date" DefaultValue="" MappedIsValidMember="m_IsValidDecision_date" MappedSetValidName="SetValidDecision_date" MappedIsValidName="IsValidDecision_date" MappedMemberName="m_Decision_date" MappedDisplayName="decision_date" MappedSetterName="Decision_date" MappedGetterName="Decision_date" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="dateStart" DefaultValue="" MappedIsValidMember="m_IsValidDateStart" MappedSetValidName="SetValidDateStart" MappedIsValidName="IsValidDateStart" MappedMemberName="m_DateStart" MappedDisplayName="dateStart" MappedSetterName="DateStart" MappedGetterName="DateStart" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="dateFinish" DefaultValue="" MappedIsValidMember="m_IsValidDateFinish" MappedSetValidName="SetValidDateFinish" MappedIsValidName="IsValidDateFinish" MappedMemberName="m_DateFinish" MappedDisplayName="dateFinish" MappedSetterName="DateFinish" MappedGetterName="DateFinish" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="needsCriteria" DefaultValue="" MappedIsValidMember="m_IsValidNeedsCriteria" MappedSetValidName="SetValidNeedsCriteria" MappedIsValidName="IsValidNeedsCriteria" MappedMemberName="m_NeedsCriteria" MappedDisplayName="needsCriteria" MappedSetterName="NeedsCriteria" MappedGetterName="NeedsCriteria">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="assignment_info" DefaultValue="" MappedIsValidMember="m_IsValidAssignment_info" MappedSetValidName="SetValidAssignment_info" MappedIsValidName="IsValidAssignment_info" MappedMemberName="m_Assignment_info" MappedDisplayName="assignment_info" MappedSetterName="Assignment_info" MappedGetterName="Assignment_info">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="lastChanging" DefaultValue="" MappedIsValidMember="m_IsValidLastChanging" MappedSetValidName="SetValidLastChanging" MappedIsValidName="IsValidLastChanging" MappedMemberName="m_LastChanging" MappedDisplayName="lastChanging" MappedSetterName="LastChanging" MappedGetterName="LastChanging" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="FamilyName" LongName="FamilyName" MappedClassColName="FamilyNameCol" MappedClassName="FamilyName">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the FamilyName element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'string'</Remarks>
+  </Class>
+  <Class Name="FirstName" LongName="FirstName" MappedClassColName="FirstNameCol" MappedClassName="FirstName">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the FirstName element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'string'</Remarks>
+  </Class>
+  <Class Name="Gender" LongName="Gender" MappedClassColName="GenderCol" MappedClassName="Gender">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the Gender element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'string'</Remarks>
+  </Class>
+  <Class Name="ID" LongName="ID" MappedClassColName="IDCol" MappedClassName="ID">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the ID element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'string'</Remarks>
+  </Class>
+  <Class Name="IdentityDoc" LongName="IdentityDoc" MappedClassColName="IdentityDocCol" MappedClassName="IdentityDoc">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="PassportRF" DefaultValue="" MappedIsValidMember="m_IsValidPassportRF" MappedSetValidName="SetValidPassportRF" MappedIsValidName="IsValidPassportRF" MappedMemberName="m_PassportRF" MappedDisplayName="PassportRF" MappedSetterName="PassportRF" MappedGetterName="PassportRF">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="IdentityDoc" LongName="IdentityDoc" MappedClassColName="IdentityDocCol" MappedClassName="IdentityDoc">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="PassportRF" DefaultValue="" MappedIsValidMember="m_IsValidPassportRF" MappedSetValidName="SetValidPassportRF" MappedIsValidName="IsValidPassportRF" MappedMemberName="m_PassportRF" MappedDisplayName="PassportRF" MappedSetterName="PassportRF" MappedGetterName="PassportRF">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="IdentityDocA" LongName="IdentityDocA" MappedClassColName="IdentityDocACol" MappedClassName="IdentityDocA">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="PassportRF" DefaultValue="" MappedIsValidMember="m_IsValidPassportRF" MappedSetValidName="SetValidPassportRF" MappedIsValidName="IsValidPassportRF" MappedMemberName="m_PassportRF" MappedDisplayName="PassportRF" MappedSetterName="PassportRF" MappedGetterName="PassportRF">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="BirthCertificate" DefaultValue="" MappedIsValidMember="m_IsValidBirthCertificate" MappedSetValidName="SetValidBirthCertificate" MappedIsValidName="IsValidBirthCertificate" MappedMemberName="m_BirthCertificate" MappedDisplayName="BirthCertificate" MappedSetterName="BirthCertificate" MappedGetterName="BirthCertificate">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="LMSZID" LongName="LMSZID" MappedClassColName="LMSZIDCol" MappedClassName="LMSZID">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the LMSZID element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'string'</Remarks>
+  </Class>
+  <Class Name="monetary_form" LongName="monetary_form" MappedClassColName="Monetary_formCol" MappedClassName="Monetary_form">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="amount" DefaultValue="" MappedIsValidMember="m_IsValidAmount" MappedSetValidName="SetValidAmount" MappedIsValidName="IsValidAmount" MappedMemberName="m_Amount" MappedDisplayName="amount" MappedSetterName="Amount" MappedGetterName="Amount" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="MSZ_receiver" LongName="MSZ_receiver" MappedClassColName="MSZ_receiverCol" MappedClassName="MSZ_receiver">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="SNILS" DefaultValue="" MappedIsValidMember="m_IsValidSNILS" MappedSetValidName="SetValidSNILS" MappedIsValidName="IsValidSNILS" MappedMemberName="m_SNILS" MappedDisplayName="SNILS" MappedSetterName="SNILS" MappedGetterName="SNILS" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="FamilyName" DefaultValue="" MappedIsValidMember="m_IsValidFamilyName" MappedSetValidName="SetValidFamilyName" MappedIsValidName="IsValidFamilyName" MappedMemberName="m_FamilyName" MappedDisplayName="FamilyName" MappedSetterName="FamilyName" MappedGetterName="FamilyName" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="FirstName" DefaultValue="" MappedIsValidMember="m_IsValidFirstName" MappedSetValidName="SetValidFirstName" MappedIsValidName="IsValidFirstName" MappedMemberName="m_FirstName" MappedDisplayName="FirstName" MappedSetterName="FirstName" MappedGetterName="FirstName" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Patronymic" DefaultValue="" MappedIsValidMember="m_IsValidPatronymic" MappedSetValidName="SetValidPatronymic" MappedIsValidName="IsValidPatronymic" MappedMemberName="m_Patronymic" MappedDisplayName="Patronymic" MappedSetterName="Patronymic" MappedGetterName="Patronymic" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Gender" DefaultValue="" MappedIsValidMember="m_IsValidGender" MappedSetValidName="SetValidGender" MappedIsValidName="IsValidGender" MappedMemberName="m_Gender" MappedDisplayName="Gender" MappedSetterName="Gender" MappedGetterName="Gender" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="BirthDate" DefaultValue="" MappedIsValidMember="m_IsValidBirthDate" MappedSetValidName="SetValidBirthDate" MappedIsValidName="IsValidBirthDate" MappedMemberName="m_BirthDate" MappedDisplayName="BirthDate" MappedSetterName="BirthDate" MappedGetterName="BirthDate" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="IdentityDoc" DefaultValue="" MappedIsValidMember="m_IsValidIdentityDoc" MappedSetValidName="SetValidIdentityDoc" MappedIsValidName="IsValidIdentityDoc" MappedMemberName="m_IdentityDoc" MappedDisplayName="IdentityDoc" MappedSetterName="IdentityDoc" MappedGetterName="IdentityDoc">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="MSZ_receiver" LongName="MSZ_receiver" MappedClassColName="MSZ_receiverCol" MappedClassName="MSZ_receiver">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="SNILS" DefaultValue="" MappedIsValidMember="m_IsValidSNILS" MappedSetValidName="SetValidSNILS" MappedIsValidName="IsValidSNILS" MappedMemberName="m_SNILS" MappedDisplayName="SNILS" MappedSetterName="SNILS" MappedGetterName="SNILS" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="FamilyName" DefaultValue="" MappedIsValidMember="m_IsValidFamilyName" MappedSetValidName="SetValidFamilyName" MappedIsValidName="IsValidFamilyName" MappedMemberName="m_FamilyName" MappedDisplayName="FamilyName" MappedSetterName="FamilyName" MappedGetterName="FamilyName" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="FirstName" DefaultValue="" MappedIsValidMember="m_IsValidFirstName" MappedSetValidName="SetValidFirstName" MappedIsValidName="IsValidFirstName" MappedMemberName="m_FirstName" MappedDisplayName="FirstName" MappedSetterName="FirstName" MappedGetterName="FirstName" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Patronymic" DefaultValue="" MappedIsValidMember="m_IsValidPatronymic" MappedSetValidName="SetValidPatronymic" MappedIsValidName="IsValidPatronymic" MappedMemberName="m_Patronymic" MappedDisplayName="Patronymic" MappedSetterName="Patronymic" MappedGetterName="Patronymic" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Gender" DefaultValue="" MappedIsValidMember="m_IsValidGender" MappedSetValidName="SetValidGender" MappedIsValidName="IsValidGender" MappedMemberName="m_Gender" MappedDisplayName="Gender" MappedSetterName="Gender" MappedGetterName="Gender" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="BirthDate" DefaultValue="" MappedIsValidMember="m_IsValidBirthDate" MappedSetValidName="SetValidBirthDate" MappedIsValidName="IsValidBirthDate" MappedMemberName="m_BirthDate" MappedDisplayName="BirthDate" MappedSetterName="BirthDate" MappedGetterName="BirthDate" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="IdentityDoc" DefaultValue="" MappedIsValidMember="m_IsValidIdentityDoc" MappedSetValidName="SetValidIdentityDoc" MappedIsValidName="IsValidIdentityDoc" MappedMemberName="m_IdentityDoc" MappedDisplayName="IdentityDoc" MappedSetterName="IdentityDoc" MappedGetterName="IdentityDoc">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="needsCriteria" LongName="needsCriteria" MappedClassColName="NeedsCriteriaCol" MappedClassName="NeedsCriteria">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="usingSign" DefaultValue="" MappedIsValidMember="m_IsValidUsingSign" MappedSetValidName="SetValidUsingSign" MappedIsValidName="IsValidUsingSign" MappedMemberName="m_UsingSign" MappedDisplayName="usingSign" MappedSetterName="UsingSign" MappedGetterName="UsingSign" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="criteria" DefaultValue="" MappedIsValidMember="m_IsValidCriteria" MappedSetValidName="SetValidCriteria" MappedIsValidName="IsValidCriteria" MappedMemberName="m_Criteria" MappedDisplayName="criteria" MappedSetterName="Criteria" MappedGetterName="Criteria" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="needsCriteria" LongName="needsCriteria" MappedClassColName="NeedsCriteriaCol" MappedClassName="NeedsCriteria">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="usingSign" DefaultValue="" MappedIsValidMember="m_IsValidUsingSign" MappedSetValidName="SetValidUsingSign" MappedIsValidName="IsValidUsingSign" MappedMemberName="m_UsingSign" MappedDisplayName="usingSign" MappedSetterName="UsingSign" MappedGetterName="UsingSign" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="criteria" DefaultValue="" MappedIsValidMember="m_IsValidCriteria" MappedSetValidName="SetValidCriteria" MappedIsValidName="IsValidCriteria" MappedMemberName="m_Criteria" MappedDisplayName="criteria" MappedSetterName="Criteria" MappedGetterName="Criteria" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="OSZCode" LongName="OSZCode" MappedClassColName="OSZCodeCol" MappedClassName="OSZCode">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the OSZCode element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'string'</Remarks>
+  </Class>
+  <Class Name="package" LongName="package" MappedClassColName="PackageCol" MappedClassName="Package">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="packageID" DefaultValue="" MappedIsValidMember="m_IsValidPackageID" MappedSetValidName="SetValidPackageID" MappedIsValidName="IsValidPackageID" MappedMemberName="m_PackageID" MappedDisplayName="packageID" MappedSetterName="PackageID" MappedGetterName="PackageID" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="elements" DefaultValue="" MappedIsValidMember="m_IsValidElements" MappedSetValidName="SetValidElements" MappedIsValidName="IsValidElements" MappedMemberName="m_Elements" MappedDisplayName="elements" MappedSetterName="Elements" MappedGetterName="Elements">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="package" LongName="package" MappedClassColName="PackageCol" MappedClassName="Package">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="packageID" DefaultValue="" MappedIsValidMember="m_IsValidPackageID" MappedSetValidName="SetValidPackageID" MappedIsValidName="IsValidPackageID" MappedMemberName="m_PackageID" MappedDisplayName="packageID" MappedSetterName="PackageID" MappedGetterName="PackageID" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="elements" DefaultValue="" MappedIsValidMember="m_IsValidElements" MappedSetValidName="SetValidElements" MappedIsValidName="IsValidElements" MappedMemberName="m_Elements" MappedDisplayName="elements" MappedSetterName="Elements" MappedGetterName="Elements">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="PassportRF" LongName="PassportRF" MappedClassColName="PassportRFCol" MappedClassName="PassportRF">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="Series" DefaultValue="" MappedIsValidMember="m_IsValidSeries" MappedSetValidName="SetValidSeries" MappedIsValidName="IsValidSeries" MappedMemberName="m_Series" MappedDisplayName="Series" MappedSetterName="Series" MappedGetterName="Series" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Number" DefaultValue="" MappedIsValidMember="m_IsValidNumber" MappedSetValidName="SetValidNumber" MappedIsValidName="IsValidNumber" MappedMemberName="m_Number" MappedDisplayName="Number" MappedSetterName="Number" MappedGetterName="Number" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="IssueDate" DefaultValue="" MappedIsValidMember="m_IsValidIssueDate" MappedSetValidName="SetValidIssueDate" MappedIsValidName="IsValidIssueDate" MappedMemberName="m_IssueDate" MappedDisplayName="IssueDate" MappedSetterName="IssueDate" MappedGetterName="IssueDate" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Issuer" DefaultValue="" MappedIsValidMember="m_IsValidIssuer" MappedSetValidName="SetValidIssuer" MappedIsValidName="IsValidIssuer" MappedMemberName="m_Issuer" MappedDisplayName="Issuer" MappedSetterName="Issuer" MappedGetterName="Issuer" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="PassportRF" LongName="PassportRF" MappedClassColName="PassportRFCol" MappedClassName="PassportRF">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="Series" DefaultValue="" MappedIsValidMember="m_IsValidSeries" MappedSetValidName="SetValidSeries" MappedIsValidName="IsValidSeries" MappedMemberName="m_Series" MappedDisplayName="Series" MappedSetterName="Series" MappedGetterName="Series" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Number" DefaultValue="" MappedIsValidMember="m_IsValidNumber" MappedSetValidName="SetValidNumber" MappedIsValidName="IsValidNumber" MappedMemberName="m_Number" MappedDisplayName="Number" MappedSetterName="Number" MappedGetterName="Number" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="IssueDate" DefaultValue="" MappedIsValidMember="m_IsValidIssueDate" MappedSetValidName="SetValidIssueDate" MappedIsValidName="IsValidIssueDate" MappedMemberName="m_IssueDate" MappedDisplayName="IssueDate" MappedSetterName="IssueDate" MappedGetterName="IssueDate" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Issuer" DefaultValue="" MappedIsValidMember="m_IsValidIssuer" MappedSetValidName="SetValidIssuer" MappedIsValidName="IsValidIssuer" MappedMemberName="m_Issuer" MappedDisplayName="Issuer" MappedSetterName="Issuer" MappedGetterName="Issuer" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="Patronymic" LongName="Patronymic" MappedClassColName="PatronymicCol" MappedClassName="Patronymic">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the Patronymic element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'string'</Remarks>
+  </Class>
+  <Class Name="prsnInfo" LongName="prsnInfo" MappedClassColName="PrsnInfoCol" MappedClassName="PrsnInfo">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="SNILS" DefaultValue="" MappedIsValidMember="m_IsValidSNILS" MappedSetValidName="SetValidSNILS" MappedIsValidName="IsValidSNILS" MappedMemberName="m_SNILS" MappedDisplayName="SNILS" MappedSetterName="SNILS" MappedGetterName="SNILS" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="FamilyName" DefaultValue="" MappedIsValidMember="m_IsValidFamilyName" MappedSetValidName="SetValidFamilyName" MappedIsValidName="IsValidFamilyName" MappedMemberName="m_FamilyName" MappedDisplayName="FamilyName" MappedSetterName="FamilyName" MappedGetterName="FamilyName" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="FirstName" DefaultValue="" MappedIsValidMember="m_IsValidFirstName" MappedSetValidName="SetValidFirstName" MappedIsValidName="IsValidFirstName" MappedMemberName="m_FirstName" MappedDisplayName="FirstName" MappedSetterName="FirstName" MappedGetterName="FirstName" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Patronymic" DefaultValue="" MappedIsValidMember="m_IsValidPatronymic" MappedSetValidName="SetValidPatronymic" MappedIsValidName="IsValidPatronymic" MappedMemberName="m_Patronymic" MappedDisplayName="Patronymic" MappedSetterName="Patronymic" MappedGetterName="Patronymic" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Gender" DefaultValue="" MappedIsValidMember="m_IsValidGender" MappedSetValidName="SetValidGender" MappedIsValidName="IsValidGender" MappedMemberName="m_Gender" MappedDisplayName="Gender" MappedSetterName="Gender" MappedGetterName="Gender" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="BirthDate" DefaultValue="" MappedIsValidMember="m_IsValidBirthDate" MappedSetValidName="SetValidBirthDate" MappedIsValidName="IsValidBirthDate" MappedMemberName="m_BirthDate" MappedDisplayName="BirthDate" MappedSetterName="BirthDate" MappedGetterName="BirthDate" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="IdentityDoc" DefaultValue="" MappedIsValidMember="m_IsValidIdentityDoc" MappedSetValidName="SetValidIdentityDoc" MappedIsValidName="IsValidIdentityDoc" MappedMemberName="m_IdentityDoc" MappedDisplayName="IdentityDoc" MappedSetterName="IdentityDoc" MappedGetterName="IdentityDoc">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="prsnInfo" LongName="prsnInfo" MappedClassColName="PrsnInfoCol" MappedClassName="PrsnInfo">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="SNILS" DefaultValue="" MappedIsValidMember="m_IsValidSNILS" MappedSetValidName="SetValidSNILS" MappedIsValidName="IsValidSNILS" MappedMemberName="m_SNILS" MappedDisplayName="SNILS" MappedSetterName="SNILS" MappedGetterName="SNILS" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="FamilyName" DefaultValue="" MappedIsValidMember="m_IsValidFamilyName" MappedSetValidName="SetValidFamilyName" MappedIsValidName="IsValidFamilyName" MappedMemberName="m_FamilyName" MappedDisplayName="FamilyName" MappedSetterName="FamilyName" MappedGetterName="FamilyName" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="FirstName" DefaultValue="" MappedIsValidMember="m_IsValidFirstName" MappedSetValidName="SetValidFirstName" MappedIsValidName="IsValidFirstName" MappedMemberName="m_FirstName" MappedDisplayName="FirstName" MappedSetterName="FirstName" MappedGetterName="FirstName" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Patronymic" DefaultValue="" MappedIsValidMember="m_IsValidPatronymic" MappedSetValidName="SetValidPatronymic" MappedIsValidName="IsValidPatronymic" MappedMemberName="m_Patronymic" MappedDisplayName="Patronymic" MappedSetterName="Patronymic" MappedGetterName="Patronymic" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="Gender" DefaultValue="" MappedIsValidMember="m_IsValidGender" MappedSetValidName="SetValidGender" MappedIsValidName="IsValidGender" MappedMemberName="m_Gender" MappedDisplayName="Gender" MappedSetterName="Gender" MappedGetterName="Gender" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="BirthDate" DefaultValue="" MappedIsValidMember="m_IsValidBirthDate" MappedSetValidName="SetValidBirthDate" MappedIsValidName="IsValidBirthDate" MappedMemberName="m_BirthDate" MappedDisplayName="BirthDate" MappedSetterName="BirthDate" MappedGetterName="BirthDate" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="IdentityDoc" DefaultValue="" MappedIsValidMember="m_IsValidIdentityDoc" MappedSetValidName="SetValidIdentityDoc" MappedIsValidName="IsValidIdentityDoc" MappedMemberName="m_IdentityDoc" MappedDisplayName="IdentityDoc" MappedSetterName="IdentityDoc" MappedGetterName="IdentityDoc">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="reason_persons" LongName="reason_persons" MappedClassColName="Reason_personsCol" MappedClassName="Reason_persons">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="prsnInfo" DefaultValue="" MappedIsValidMember="m_IsValidPrsnInfo" MappedSetValidName="SetValidPrsnInfo" MappedIsValidName="IsValidPrsnInfo" MappedMemberName="m_PrsnInfo" MappedDisplayName="prsnInfo" MappedSetterName="PrsnInfo" MappedGetterName="PrsnInfo">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="reason_persons" LongName="reason_persons" MappedClassColName="Reason_personsCol" MappedClassName="Reason_persons">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="prsnInfo" DefaultValue="" MappedIsValidMember="m_IsValidPrsnInfo" MappedSetValidName="SetValidPrsnInfo" MappedIsValidName="IsValidPrsnInfo" MappedMemberName="m_PrsnInfo" MappedDisplayName="prsnInfo" MappedSetterName="PrsnInfo" MappedGetterName="PrsnInfo">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="serviceForm" LongName="serviceForm" MappedClassColName="ServiceFormCol" MappedClassName="ServiceForm">
+    <Description>
+    </Description>
+    <Remarks>
+    </Remarks>
+    <Attribute Name="amount" DefaultValue="" MappedIsValidMember="m_IsValidAmount" MappedSetValidName="SetValidAmount" MappedIsValidName="IsValidAmount" MappedMemberName="m_Amount" MappedDisplayName="amount" MappedSetterName="Amount" MappedGetterName="Amount" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="measuryCode" DefaultValue="" MappedIsValidMember="m_IsValidMeasuryCode" MappedSetValidName="SetValidMeasuryCode" MappedIsValidName="IsValidMeasuryCode" MappedMemberName="m_MeasuryCode" MappedDisplayName="measuryCode" MappedSetterName="MeasuryCode" MappedGetterName="MeasuryCode" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="content" DefaultValue="" MappedIsValidMember="m_IsValidContent" MappedSetValidName="SetValidContent" MappedIsValidName="IsValidContent" MappedMemberName="m_Content" MappedDisplayName="content" MappedSetterName="Content" MappedGetterName="Content" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="comment" DefaultValue="" MappedIsValidMember="m_IsValidComment" MappedSetValidName="SetValidComment" MappedIsValidName="IsValidComment" MappedMemberName="m_Comment" MappedDisplayName="comment" MappedSetterName="Comment" MappedGetterName="Comment" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+    <Attribute Name="equivalentAmount" DefaultValue="" MappedIsValidMember="m_IsValidEquivalentAmount" MappedSetValidName="SetValidEquivalentAmount" MappedIsValidName="IsValidEquivalentAmount" MappedMemberName="m_EquivalentAmount" MappedDisplayName="equivalentAmount" MappedSetterName="EquivalentAmount" MappedGetterName="EquivalentAmount" FormatOverride="">
+      <Description>
+      </Description>
+      <Remarks>
+      </Remarks>
+    </Attribute>
+  </Class>
+  <Class Name="SNILS" LongName="SNILS" MappedClassColName="SNILSCol" MappedClassName="SNILS">
+    <Description>
+    </Description>
+    <Remarks>This class is include in case you need to create the SNILS element as a root node. If this is the case then the only text that is allowable in the body of this element must compy with the formating rules for 'string'</Remarks>
+  </Class>
+  <Namespace SchemaNamespace="" SchemaAlias="" ClassNamespace="schemaEgisso" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-result/1.0.2" SchemaAlias="ns11" ClassNamespace="ns11" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/20.02.S/1.0.1" SchemaAlias="ns43" ClassNamespace="ns43" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/prsn-info/1.0.3" SchemaAlias="ns53" ClassNamespace="ns53" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.06.S/1.0.0" SchemaAlias="ns63" ClassNamespace="ns63" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/record-result/1.0.3" SchemaAlias="ns13" ClassNamespace="ns13" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/app-RU-OSZ/1.0.1" SchemaAlias="ns47" ClassNamespace="ns47" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/presence-point/1.0.1" SchemaAlias="ns49" ClassNamespace="ns49" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.06.S/1.0.1" SchemaAlias="ns59" ClassNamespace="ns59" />
+  <Namespace SchemaNamespace="http://fri.pfr.ru" SchemaAlias="ns69" ClassNamespace="ns69" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.05.I/1.0.3" SchemaAlias="ns17" ClassNamespace="ns17" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/local-MSZ/1.0.4" SchemaAlias="ns19" ClassNamespace="ns19" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.10.I/1.0.2" SchemaAlias="ns29" ClassNamespace="ns29" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/organization/1.0.4" SchemaAlias="ns39" ClassNamespace="ns39" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/prsn-statement/1.0.1" SchemaAlias="ns4" ClassNamespace="ns4" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-Death/1.0.1" SchemaAlias="ns41" ClassNamespace="ns41" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-RAF/1.0.3" SchemaAlias="ns51" ClassNamespace="ns51" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.01.O/1.0.3" SchemaAlias="ns71" ClassNamespace="ns71" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.10.I/1.0.3" SchemaAlias="ns30" ClassNamespace="ns30" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/basic/1.0.3" SchemaAlias="ns21" ClassNamespace="ns21" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-LS/1.0.1" SchemaAlias="ns31" ClassNamespace="ns31" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/related-MSZ/1.0.1" SchemaAlias="ns65" ClassNamespace="ns65" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-LMSZ/1.0.3" SchemaAlias="ns15" ClassNamespace="ns15" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/cls-periodicity/1.0.0" SchemaAlias="ns25" ClassNamespace="ns25" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/cls-KMSZ-changes/1.0.2" SchemaAlias="ns35" ClassNamespace="ns35" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/assignment-fact/1.0.2" SchemaAlias="ns57" ClassNamespace="ns57" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/cls-KMSZ-version/1.0.2" SchemaAlias="ns23" ClassNamespace="ns23" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.03.O/1.0.1" SchemaAlias="ns37" ClassNamespace="ns37" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/legal-successor/1.0.1" SchemaAlias="ns32" ClassNamespace="ns32" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/assignment-fact/1.0.1" SchemaAlias="ns61" ClassNamespace="ns61" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/app-RU-OSZ/1.0.2" SchemaAlias="ns45" ClassNamespace="ns45" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.11.I/1.0.2" SchemaAlias="ns44" ClassNamespace="ns44" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-PP/1.0.1" SchemaAlias="ns48" ClassNamespace="ns48" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/prsn-info/1.0.2" SchemaAlias="ns58" ClassNamespace="ns58" />
+  <Namespace SchemaNamespace="http://kvs.fri.com/initiative-distribution/attachments/1.0.0" SchemaAlias="ns68" ClassNamespace="ns68" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-LMSZ/1.0.4" SchemaAlias="ns18" ClassNamespace="ns18" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.02.I/1.0.3" SchemaAlias="ns28" ClassNamespace="ns28" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-RO/1.0.4" SchemaAlias="ns38" ClassNamespace="ns38" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/cls-KMSZ-version/1.0.3" SchemaAlias="ns27" ClassNamespace="ns27" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.07.I/1.0.5" SchemaAlias="ns40" ClassNamespace="ns40" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.15.I/1.0.1" SchemaAlias="ns50" ClassNamespace="ns50" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-RAF/1.0.1" SchemaAlias="ns60" ClassNamespace="ns60" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.01.O/1.0.2" SchemaAlias="ns70" ClassNamespace="ns70" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/basic/1.0.2" SchemaAlias="ns10" ClassNamespace="ns10" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.05.I/1.0.4" SchemaAlias="ns20" ClassNamespace="ns20" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/basic/1.0.4" SchemaAlias="ns54" ClassNamespace="ns54" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-RMSZ/1.0.1" SchemaAlias="ns64" ClassNamespace="ns64" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-protocol/1.0.3" SchemaAlias="ns14" ClassNamespace="ns14" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.02.I/1.0.2" SchemaAlias="ns24" ClassNamespace="ns24" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/20.01.S/1.0.1" SchemaAlias="ns34" ClassNamespace="ns34" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/death/1.0.1" SchemaAlias="ns42" ClassNamespace="ns42" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/assignment-fact/1.0.3" SchemaAlias="ns52" ClassNamespace="ns52" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/prsn-info/1.0.1" SchemaAlias="ns62" ClassNamespace="ns62" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/record-result/1.0.2" SchemaAlias="ns12" ClassNamespace="ns12" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.11.I/1.0.1" SchemaAlias="ns46" ClassNamespace="ns46" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-RAF/1.0.2" SchemaAlias="ns56" ClassNamespace="ns56" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.14.I/1.0.1" SchemaAlias="ns66" ClassNamespace="ns66" />
+  <Namespace SchemaNamespace="http://kvs.fri.com/initiative-distribution/1.0.2" SchemaAlias="ns67" ClassNamespace="ns67" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/local-MSZ/1.0.3" SchemaAlias="ns16" ClassNamespace="ns16" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/cls-measure/1.0.2" SchemaAlias="ns26" ClassNamespace="ns26" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/basic/1.0.1" SchemaAlias="ns36" ClassNamespace="ns36" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/basic/1.0.5" SchemaAlias="ns5" ClassNamespace="ns5" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-LMSZ/1.0.2" SchemaAlias="ns6" ClassNamespace="ns6" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/local-MSZ/1.0.2" SchemaAlias="ns7" ClassNamespace="ns7" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/prsn-request/1.0.1" SchemaAlias="ns2" ClassNamespace="ns2" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.13.I/1.0.1" SchemaAlias="ns3" ClassNamespace="ns3" />
+  <Namespace SchemaNamespace="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1" SchemaAlias="ns33" ClassNamespace="ns33" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/package-protocol/1.0.2" SchemaAlias="ns9" ClassNamespace="ns9" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.05.I/1.0.2" SchemaAlias="ns8" ClassNamespace="ns8" />
+  <Namespace SchemaNamespace="urn://egisso-ru/types/cls-request/1.0.2" SchemaAlias="ns22" ClassNamespace="ns22" />
+  <Namespace SchemaNamespace="urn://egisso-ru/msg/10.06.S/1.0.2" SchemaAlias="ns55" ClassNamespace="ns55" />
+</MappingSchema>

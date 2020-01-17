@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{52F98A0C-CF43-4507-820C-B753251F6E77}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>schemaEgisso</RootNamespace>
+    <AssemblyName>schemaEgisso</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LiquidTechnologies.Runtime.Net40">
+      <HintPath>C:\Program Files (x86)\Liquid Technologies\Liquid XML Studio 2011\XmlDataBinder9\Redist9\DotNet\LiquidTechnologies.Runtime.Net40.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="ClassFactory.cs" />
+    <Compile Include="Enumerations.cs" />
+    <Compile Include="XmlObjectCollection.cs" />
+    <Compile Include="XmlCommonBase.cs" />
+    <Compile Include="schemaEgisso\Assignment_info.cs" />
+    <Compile Include="ns52\Assignment_infoA.cs" />
+    <Compile Include="schemaEgisso\BirthCertificate.cs" />
+    <Compile Include="ns54\BirthCertificateA.cs" />
+    <Compile Include="ns53\BirthDate.cs" />
+    <Compile Include="ns52\CategoryID.cs" />
+    <Compile Include="ns55\Data.cs" />
+    <Compile Include="ns52\DateFinish.cs" />
+    <Compile Include="ns52\DateStart.cs" />
+    <Compile Include="ns52\Decision_date.cs" />
+    <Compile Include="ns51\Elements.cs" />
+    <Compile Include="ns51\Fact.cs" />
+    <Compile Include="ns33\FamilyName.cs" />
+    <Compile Include="ns33\FirstName.cs" />
+    <Compile Include="ns53\Gender.cs" />
+    <Compile Include="ns52\ID.cs" />
+    <Compile Include="schemaEgisso\IdentityDoc.cs" />
+    <Compile Include="ns53\IdentityDocA.cs" />
+    <Compile Include="ns53\IdentityDocAA.cs" />
+    <Compile Include="ns52\LMSZID.cs" />
+    <Compile Include="ns52\Monetary_form.cs" />
+    <Compile Include="schemaEgisso\MSZ_receiver.cs" />
+    <Compile Include="ns52\MSZ_receiverA.cs" />
+    <Compile Include="schemaEgisso\NeedsCriteria.cs" />
+    <Compile Include="ns52\NeedsCriteriaA.cs" />
+    <Compile Include="ns52\OSZCode.cs" />
+    <Compile Include="schemaEgisso\Package.cs" />
+    <Compile Include="ns51\PackageA.cs" />
+    <Compile Include="schemaEgisso\PassportRF.cs" />
+    <Compile Include="ns54\PassportRFA.cs" />
+    <Compile Include="ns33\Patronymic.cs" />
+    <Compile Include="schemaEgisso\PrsnInfo.cs" />
+    <Compile Include="ns53\PrsnInfoA.cs" />
+    <Compile Include="schemaEgisso\Reason_persons.cs" />
+    <Compile Include="ns52\Reason_personsA.cs" />
+    <Compile Include="ns52\ServiceForm.cs" />
+    <Compile Include="ns53\SNILS.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
+

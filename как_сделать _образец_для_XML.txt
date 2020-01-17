@@ -1,0 +1,83 @@
+Как правильно создать XML-файл для создания проекта c# в Liquid XML:
+1) Сделать несколько фактов назначения с проживающими и без
+Для того, чтобы был тп string а не decimal или int (в противном случае проглатывает 0)
+2) в тег OSZCode поставить A472.000001
+3) в тег SNILS поставить A1111111111
+4) в теги паспортов заявителя и проживающих поставить 
+Series A111 Number A11111
+теги которые выглядят самозакрытыми:
+например <<ns52:criteria/>
+сделать <<ns52:criteria>s<<ns52:criteria> иначе они не генерируются
+5) 
+В теге <ns52:reason_persons> проставить несколько проживающих если факт назначения
+с проживающими, например с двумя паспортами и с двумя свидетельствами о рождении
+иначе в тегах не появится ограничение MinOcurs=1 и не будет возможности
+внести несколько проживающих
+например 
+<ns53:prsnInfo>
+<ns53:SNILS>A7777777777</ns53:SNILS>
+<ns33:FamilyName>Баубынская</ns33:FamilyName>
+<ns33:FirstName>Наталия</ns33:FirstName>
+<ns33:Patronymic>Григорьевна</ns33:Patronymic>
+<ns53:Gender>Female</ns53:Gender>
+<ns53:BirthDate>1938-09-23</ns53:BirthDate>
+<ns53:IdentityDoc>
+<ns54:PassportRF>
+<ns54:Series>A225</ns54:Series>
+<ns54:Number>A35528</ns54:Number>
+<ns54:IssueDate>2003-07-15</ns54:IssueDate>
+<ns54:Issuer>Котельниковским о-м Люберецкого УВД МО</ns54:Issuer>
+</ns54:PassportRF>
+</ns53:IdentityDoc>
+</ns53:prsnInfo>
+
+<ns53:prsnInfo>
+<ns53:SNILS>A7777777777</ns53:SNILS>
+<ns33:FamilyName>Баубынская</ns33:FamilyName>
+<ns33:FirstName>Наталия</ns33:FirstName>
+<ns33:Patronymic>Григорьевна</ns33:Patronymic>
+<ns53:Gender>Female</ns53:Gender>
+<ns53:BirthDate>1938-09-23</ns53:BirthDate>
+<ns53:IdentityDoc>
+<ns54:PassportRF>
+<ns54:Series>A225</ns54:Series>
+<ns54:Number>A35528</ns54:Number>
+<ns54:IssueDate>2003-07-15</ns54:IssueDate>
+<ns54:Issuer>Котельниковским о-м Люберецкого УВД МО</ns54:Issuer>
+</ns54:PassportRF>
+</ns53:IdentityDoc>
+</ns53:prsnInfo>
+
+<ns53:prsnInfo>
+<ns53:SNILS>A7777777777</ns53:SNILS>
+<ns33:FamilyName>Баубынская</ns33:FamilyName>
+<ns33:FirstName>Наталия</ns33:FirstName>
+<ns33:Patronymic>Григорьевна</ns33:Patronymic>
+<ns53:Gender>Female</ns53:Gender>
+<ns53:BirthDate>1938-09-23</ns53:BirthDate>
+<ns53:IdentityDoc>
+<ns54:BirthCertificate>
+<ns54:Series>III-СН</ns54:Series>
+<ns54:Number>A35528</ns54:Number>
+<ns54:IssueDate>2003-07-15</ns54:IssueDate>
+<ns54:Issuer>Котельниковским о-м Люберецкого УВД МО</ns54:Issuer>
+</ns54:BirthCertificate>
+</ns53:IdentityDoc>
+</ns53:prsnInfo>
+
+<ns53:prsnInfo>
+<ns53:SNILS>A7777777777</ns53:SNILS>
+<ns33:FamilyName>Баубынская</ns33:FamilyName>
+<ns33:FirstName>Наталия</ns33:FirstName>
+<ns33:Patronymic>Григорьевна</ns33:Patronymic>
+<ns53:Gender>Female</ns53:Gender>
+<ns53:BirthDate>1938-09-23</ns53:BirthDate>
+<ns53:IdentityDoc>
+<ns54:BirthCertificate>
+<ns54:Series>III-СН</ns54:Series>
+<ns54:Number>A35528</ns54:Number>
+<ns54:IssueDate>2003-07-15</ns54:IssueDate>
+<ns54:Issuer>Котельниковским о-м Люберецкого УВД МО</ns54:Issuer>
+</ns54:BirthCertificate>
+</ns53:IdentityDoc>
+</ns53:prsnInfo>

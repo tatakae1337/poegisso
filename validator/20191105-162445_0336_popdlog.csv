@@ -1,0 +1,4 @@
+20191105-162445_0336_10.06.S_001.xml;ньхайю;"57:93 cvc-pattern-valid: Value 'ло стля пняяхх он пеяосакхйе яюую (ъйсрхъ) б юашияйнл п_ме' is not facet-valid with respect to pattern '[Ю-Ъю-ъ╦╗\-0-9╧(][Ю-Ъю-ъ╦╗\-\s',.0-9()╧""\\/]*' for type 'rus-and-num-200'."
+20191105-162445_0336_10.06.S_001.xml;ньхайю;"57:93 cvc-type.3.1.3: The value 'ло стля пняяхх он пеяосакхйе яюую (ъйсрхъ) б юашияйнл п_ме' of element 'ns54:Issuer' is not valid."
+20191105-162445_0336_10.06.S_001.xml;ньхайю;"14178:64 cvc-pattern-valid: Value 'III-л нбд ЦНП. ъЙСРЯЙЮ пя (ъ)' is not facet-valid with respect to pattern '[Ю-Ъю-ъ╦╗\-0-9╧(][Ю-Ъю-ъ╦╗\-\s',.0-9()╧""\\/]*' for type 'rus-and-num-200'."
+20191105-162445_0336_10.06.S_001.xml;ньхайю;"14178:64 cvc-type.3.1.3: The value 'III-л нбд ЦНП. ъЙСРЯЙЮ пя (ъ)' of element 'ns54:Issuer' is not valid."

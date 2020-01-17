@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by Liquid XML Data Binding Libraries (www.liquid-technologies.com) for Liquid Technologies Limited-->
+<lxdb8:LXDBWizardProject xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:lxdb8="http://www.liquid-technologies.com/LTWizProjectLib8" ProjectVersion="9.0.11.3078">
+	<lxdb8:Schema FullPathName="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd" SelectedSchemaType="XSD" XDRAllowAdditionalAttributes="false" XDRIgnoreSimpleElements="false" SelectedLanguage="CS">
+		<lxdb8:CPP CollectionMapping="Original" OutputPath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd.Output\SourceCodeCPP" DocumentationOutputPath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd.Output\DocumentationCPP" MappingFilePath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd_NameMapping.cpp.xml" DefaultClassNamespace="schema0Lib"/>
+		<lxdb8:CSharp CollectionMapping="Original" OutputPath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd.Output\SourceCodeCS" DocumentationOutputPath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd.Output\DocumentationCS" MappingFilePath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd_NameMapping.cs.xml" DefaultClassNamespace="schemaEgisso" BaseNamespace="">
+			<lxdb8:DotNetPlatformOptions>
+				<lxdb8:DotNetDevEnv>VS2010</lxdb8:DotNetDevEnv>
+				<lxdb8:DotNetPlatform>DotNet40</lxdb8:DotNetPlatform>
+			</lxdb8:DotNetPlatformOptions>
+		</lxdb8:CSharp>
+		<lxdb8:Java CollectionMapping="Original" OutputPath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd.Output\SourceCodeJava" DocumentationOutputPath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd.Output\DocumentationJava" MappingFilePath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd_NameMapping.java.xml" DefaultPackageName="schema0Lib" BasePackage=""/>
+		<lxdb8:VBNet CollectionMapping="Original" OutputPath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd.Output\SourceCodeVBNet" DocumentationOutputPath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd.Output\DocumentationVBNet" MappingFilePath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd_NameMapping.vbnet.xml" DefaultClassNamespace="schema0Lib" BaseNamespace="">
+			<lxdb8:DotNetPlatformOptions>
+				<lxdb8:DotNetDevEnv>VS2010</lxdb8:DotNetDevEnv>
+				<lxdb8:DotNetPlatform>DotNet40</lxdb8:DotNetPlatform>
+			</lxdb8:DotNetPlatformOptions>
+		</lxdb8:VBNet>
+		<lxdb8:VB6 CollectionMapping="Original" OutputPath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd.Output\SourceCodeVB" DocumentationOutputPath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd.Output\DocumentationVB" MappingFilePath="C:\Users\peter\Documents\Visual Studio 2017\Projects\egisso_\schema0.xsd_NameMapping.vb6.xml" ComponentName="schema0Lib" Description="" MajorVersion="1" MinorVersion="0" Revision="0" ProductName=""/>
+	</lxdb8:Schema>
+	<lxdb8:Output CreateDocumentation="true" CreateSampleApplication="true" OutputDateInHeaderBlock="false" OutputProjectFiles="true" OutputFastInfosetTables="false" OutputPropertyEvents="false" OutputElmRefAsInterface="true"/>
+	<lxdb8:PostBuild BuildHelp="true" OpenHelp="true" OpenProject="true"/>
+</lxdb8:LXDBWizardProject>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<xs:schema xmlns:tns="urn://egisso-ru/types/prsn-info/1.0.3" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn://egisso-ru/types/prsn-info/1.0.3" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="schema5.xsd" namespace="urn://egisso-ru/types/basic/1.0.4" />
+  <xs:import schemaLocation="schema4.xsd" namespace="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1" />
+  <xs:element name="SNILS" type="xs:string" />
+  <xs:element name="Gender" type="xs:string" />
+  <xs:element name="BirthDate" type="xs:date" />
+  <xs:element name="IdentityDoc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="urn://egisso-ru/types/basic/1.0.4" ref="q1:PassportRF" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="prsnInfo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="SNILS" type="xs:string" />
+        <xs:element xmlns:q2="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1" ref="q2:FamilyName" />
+        <xs:element xmlns:q3="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1" ref="q3:FirstName" />
+        <xs:element xmlns:q4="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1" ref="q4:Patronymic" />
+        <xs:element name="Gender" type="xs:string" />
+        <xs:element name="BirthDate" type="xs:date" />
+        <xs:element name="IdentityDoc">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" xmlns:q5="urn://egisso-ru/types/basic/1.0.4" ref="q5:PassportRF" />
+              <xs:element minOccurs="0" xmlns:q6="urn://egisso-ru/types/basic/1.0.4" ref="q6:BirthCertificate" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

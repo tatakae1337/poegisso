@@ -1,0 +1,902 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Liquid Technologies; Liquid XML Data Binder">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Assignment_info (Class)">
+		<param name="Local" value="schemaEgisso\Cls_Assignment_info.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.Assignment_info (Class)">
+		<param name="Local" value="schemaEgisso\Cls_Assignment_info.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Assignment_info.ServiceForm (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Assignment_info_serviceForm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ServiceForm (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Assignment_info_serviceForm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.ServiceForm (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Assignment_info_serviceForm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Assignment_info.Monetary_form (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Assignment_info_monetary_form.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Monetary_form (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Assignment_info_monetary_form.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.Monetary_form (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Assignment_info_monetary_form.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.Assignment_info (Class)">
+		<param name="Local" value="ns52\Cls_Assignment_infoA.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.ServiceForm (Property)">
+		<param name="Local" value="ns52\Attr_Assignment_infoA_serviceForm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.Monetary_form (Property)">
+		<param name="Local" value="ns52\Attr_Assignment_infoA_monetary_form.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BirthCertificate (Class)">
+		<param name="Local" value="schemaEgisso\Cls_BirthCertificate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.BirthCertificate (Class)">
+		<param name="Local" value="schemaEgisso\Cls_BirthCertificate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BirthCertificate.Series (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Series.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Series (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Series.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.Series (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Series.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BirthCertificate.Number (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Number.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Number (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Number.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.Number (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Number.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BirthCertificate.IssueDate (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_IssueDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="IssueDate (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_IssueDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.IssueDate (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_IssueDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BirthCertificate.Issuer (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Issuer.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Issuer (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Issuer.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.Issuer (Property)">
+		<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Issuer.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns54.BirthCertificate (Class)">
+		<param name="Local" value="ns54\Cls_BirthCertificateA.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns54.Series (Property)">
+		<param name="Local" value="ns54\Attr_BirthCertificateA_Series.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns54.Number (Property)">
+		<param name="Local" value="ns54\Attr_BirthCertificateA_Number.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns54.IssueDate (Property)">
+		<param name="Local" value="ns54\Attr_BirthCertificateA_IssueDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns54.Issuer (Property)">
+		<param name="Local" value="ns54\Attr_BirthCertificateA_Issuer.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BirthDate (Class)">
+		<param name="Local" value="ns53\Cls_BirthDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.BirthDate (Class)">
+		<param name="Local" value="ns53\Cls_BirthDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CategoryID (Class)">
+		<param name="Local" value="ns52\Cls_CategoryID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.CategoryID (Class)">
+		<param name="Local" value="ns52\Cls_CategoryID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Data (Class)">
+		<param name="Local" value="ns55\Cls_Data.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns55.Data (Class)">
+		<param name="Local" value="ns55\Cls_Data.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Data.Package (Property)">
+		<param name="Local" value="ns55\Attr_Data_package.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Package (Property)">
+		<param name="Local" value="ns55\Attr_Data_package.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns55.Package (Property)">
+		<param name="Local" value="ns55\Attr_Data_package.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="DateFinish (Class)">
+		<param name="Local" value="ns52\Cls_DateFinish.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.DateFinish (Class)">
+		<param name="Local" value="ns52\Cls_DateFinish.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="DateStart (Class)">
+		<param name="Local" value="ns52\Cls_DateStart.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.DateStart (Class)">
+		<param name="Local" value="ns52\Cls_DateStart.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Decision_date (Class)">
+		<param name="Local" value="ns52\Cls_Decision_date.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.Decision_date (Class)">
+		<param name="Local" value="ns52\Cls_Decision_date.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Elements (Class)">
+		<param name="Local" value="ns51\Cls_Elements.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.Elements (Class)">
+		<param name="Local" value="ns51\Cls_Elements.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Elements.Fact (Property)">
+		<param name="Local" value="ns51\Attr_Elements_fact.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact (Property)">
+		<param name="Local" value="ns51\Attr_Elements_fact.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.Fact (Property)">
+		<param name="Local" value="ns51\Attr_Elements_fact.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact (Class)">
+		<param name="Local" value="ns51\Cls_Fact.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.Fact (Class)">
+		<param name="Local" value="ns51\Cls_Fact.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.ID (Property)">
+		<param name="Local" value="ns51\Attr_Fact_ID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ID (Property)">
+		<param name="Local" value="ns51\Attr_Fact_ID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.ID (Property)">
+		<param name="Local" value="ns51\Attr_Fact_ID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.OSZCode (Property)">
+		<param name="Local" value="ns51\Attr_Fact_OSZCode.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="OSZCode (Property)">
+		<param name="Local" value="ns51\Attr_Fact_OSZCode.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.OSZCode (Property)">
+		<param name="Local" value="ns51\Attr_Fact_OSZCode.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.MSZ_receiver (Property)">
+		<param name="Local" value="ns51\Attr_Fact_MSZ_receiver.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MSZ_receiver (Property)">
+		<param name="Local" value="ns51\Attr_Fact_MSZ_receiver.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.MSZ_receiver (Property)">
+		<param name="Local" value="ns51\Attr_Fact_MSZ_receiver.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.Reason_persons (Property)">
+		<param name="Local" value="ns51\Attr_Fact_reason_persons.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Reason_persons (Property)">
+		<param name="Local" value="ns51\Attr_Fact_reason_persons.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.Reason_persons (Property)">
+		<param name="Local" value="ns51\Attr_Fact_reason_persons.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.LMSZID (Property)">
+		<param name="Local" value="ns51\Attr_Fact_LMSZID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="LMSZID (Property)">
+		<param name="Local" value="ns51\Attr_Fact_LMSZID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.LMSZID (Property)">
+		<param name="Local" value="ns51\Attr_Fact_LMSZID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.CategoryID (Property)">
+		<param name="Local" value="ns51\Attr_Fact_categoryID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CategoryID (Property)">
+		<param name="Local" value="ns51\Attr_Fact_categoryID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.CategoryID (Property)">
+		<param name="Local" value="ns51\Attr_Fact_categoryID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.Decision_date (Property)">
+		<param name="Local" value="ns51\Attr_Fact_decision_date.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Decision_date (Property)">
+		<param name="Local" value="ns51\Attr_Fact_decision_date.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.Decision_date (Property)">
+		<param name="Local" value="ns51\Attr_Fact_decision_date.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.DateStart (Property)">
+		<param name="Local" value="ns51\Attr_Fact_dateStart.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="DateStart (Property)">
+		<param name="Local" value="ns51\Attr_Fact_dateStart.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.DateStart (Property)">
+		<param name="Local" value="ns51\Attr_Fact_dateStart.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.DateFinish (Property)">
+		<param name="Local" value="ns51\Attr_Fact_dateFinish.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="DateFinish (Property)">
+		<param name="Local" value="ns51\Attr_Fact_dateFinish.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.DateFinish (Property)">
+		<param name="Local" value="ns51\Attr_Fact_dateFinish.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.NeedsCriteria (Property)">
+		<param name="Local" value="ns51\Attr_Fact_needsCriteria.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="NeedsCriteria (Property)">
+		<param name="Local" value="ns51\Attr_Fact_needsCriteria.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.NeedsCriteria (Property)">
+		<param name="Local" value="ns51\Attr_Fact_needsCriteria.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.Assignment_info (Property)">
+		<param name="Local" value="ns51\Attr_Fact_assignment_info.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Assignment_info (Property)">
+		<param name="Local" value="ns51\Attr_Fact_assignment_info.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.Assignment_info (Property)">
+		<param name="Local" value="ns51\Attr_Fact_assignment_info.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fact.LastChanging (Property)">
+		<param name="Local" value="ns51\Attr_Fact_lastChanging.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="LastChanging (Property)">
+		<param name="Local" value="ns51\Attr_Fact_lastChanging.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.LastChanging (Property)">
+		<param name="Local" value="ns51\Attr_Fact_lastChanging.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="FamilyName (Class)">
+		<param name="Local" value="ns33\Cls_FamilyName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns33.FamilyName (Class)">
+		<param name="Local" value="ns33\Cls_FamilyName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="FirstName (Class)">
+		<param name="Local" value="ns33\Cls_FirstName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns33.FirstName (Class)">
+		<param name="Local" value="ns33\Cls_FirstName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Gender (Class)">
+		<param name="Local" value="ns53\Cls_Gender.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.Gender (Class)">
+		<param name="Local" value="ns53\Cls_Gender.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ID (Class)">
+		<param name="Local" value="ns52\Cls_ID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.ID (Class)">
+		<param name="Local" value="ns52\Cls_ID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="IdentityDoc (Class)">
+		<param name="Local" value="schemaEgisso\Cls_IdentityDoc.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.IdentityDoc (Class)">
+		<param name="Local" value="schemaEgisso\Cls_IdentityDoc.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="IdentityDoc.PassportRF (Property)">
+		<param name="Local" value="schemaEgisso\Attr_IdentityDoc_PassportRF.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PassportRF (Property)">
+		<param name="Local" value="schemaEgisso\Attr_IdentityDoc_PassportRF.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.PassportRF (Property)">
+		<param name="Local" value="schemaEgisso\Attr_IdentityDoc_PassportRF.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.IdentityDoc (Class)">
+		<param name="Local" value="ns53\Cls_IdentityDocA.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.PassportRF (Property)">
+		<param name="Local" value="ns53\Attr_IdentityDocA_PassportRF.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="IdentityDocA (Class)">
+		<param name="Local" value="ns53\Cls_IdentityDocAA.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.IdentityDocA (Class)">
+		<param name="Local" value="ns53\Cls_IdentityDocAA.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="IdentityDocA.PassportRF (Property)">
+		<param name="Local" value="ns53\Attr_IdentityDocAA_PassportRF.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="IdentityDocA.BirthCertificate (Property)">
+		<param name="Local" value="ns53\Attr_IdentityDocAA_BirthCertificate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BirthCertificate (Property)">
+		<param name="Local" value="ns53\Attr_IdentityDocAA_BirthCertificate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.BirthCertificate (Property)">
+		<param name="Local" value="ns53\Attr_IdentityDocAA_BirthCertificate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="LMSZID (Class)">
+		<param name="Local" value="ns52\Cls_LMSZID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.LMSZID (Class)">
+		<param name="Local" value="ns52\Cls_LMSZID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Monetary_form (Class)">
+		<param name="Local" value="ns52\Cls_Monetary_form.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.Monetary_form (Class)">
+		<param name="Local" value="ns52\Cls_Monetary_form.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Monetary_form.Amount (Property)">
+		<param name="Local" value="ns52\Attr_Monetary_form_amount.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Amount (Property)">
+		<param name="Local" value="ns52\Attr_Monetary_form_amount.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.Amount (Property)">
+		<param name="Local" value="ns52\Attr_Monetary_form_amount.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MSZ_receiver (Class)">
+		<param name="Local" value="schemaEgisso\Cls_MSZ_receiver.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.MSZ_receiver (Class)">
+		<param name="Local" value="schemaEgisso\Cls_MSZ_receiver.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MSZ_receiver.SNILS (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_SNILS.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="SNILS (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_SNILS.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.SNILS (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_SNILS.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MSZ_receiver.FamilyName (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_FamilyName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="FamilyName (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_FamilyName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.FamilyName (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_FamilyName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MSZ_receiver.FirstName (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_FirstName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="FirstName (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_FirstName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.FirstName (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_FirstName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MSZ_receiver.Patronymic (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_Patronymic.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Patronymic (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_Patronymic.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.Patronymic (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_Patronymic.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MSZ_receiver.Gender (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_Gender.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Gender (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_Gender.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.Gender (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_Gender.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MSZ_receiver.BirthDate (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_BirthDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BirthDate (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_BirthDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.BirthDate (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_BirthDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MSZ_receiver.IdentityDoc (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_IdentityDoc.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="IdentityDoc (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_IdentityDoc.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.IdentityDoc (Property)">
+		<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_IdentityDoc.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.MSZ_receiver (Class)">
+		<param name="Local" value="ns52\Cls_MSZ_receiverA.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.SNILS (Property)">
+		<param name="Local" value="ns52\Attr_MSZ_receiverA_SNILS.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.FamilyName (Property)">
+		<param name="Local" value="ns52\Attr_MSZ_receiverA_FamilyName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.FirstName (Property)">
+		<param name="Local" value="ns52\Attr_MSZ_receiverA_FirstName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.Patronymic (Property)">
+		<param name="Local" value="ns52\Attr_MSZ_receiverA_Patronymic.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.Gender (Property)">
+		<param name="Local" value="ns52\Attr_MSZ_receiverA_Gender.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.BirthDate (Property)">
+		<param name="Local" value="ns52\Attr_MSZ_receiverA_BirthDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.IdentityDoc (Property)">
+		<param name="Local" value="ns52\Attr_MSZ_receiverA_IdentityDoc.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="NeedsCriteria (Class)">
+		<param name="Local" value="schemaEgisso\Cls_NeedsCriteria.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.NeedsCriteria (Class)">
+		<param name="Local" value="schemaEgisso\Cls_NeedsCriteria.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="NeedsCriteria.UsingSign (Property)">
+		<param name="Local" value="schemaEgisso\Attr_NeedsCriteria_usingSign.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="UsingSign (Property)">
+		<param name="Local" value="schemaEgisso\Attr_NeedsCriteria_usingSign.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.UsingSign (Property)">
+		<param name="Local" value="schemaEgisso\Attr_NeedsCriteria_usingSign.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="NeedsCriteria.Criteria (Property)">
+		<param name="Local" value="schemaEgisso\Attr_NeedsCriteria_criteria.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Criteria (Property)">
+		<param name="Local" value="schemaEgisso\Attr_NeedsCriteria_criteria.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.Criteria (Property)">
+		<param name="Local" value="schemaEgisso\Attr_NeedsCriteria_criteria.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.NeedsCriteria (Class)">
+		<param name="Local" value="ns52\Cls_NeedsCriteriaA.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.UsingSign (Property)">
+		<param name="Local" value="ns52\Attr_NeedsCriteriaA_usingSign.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.Criteria (Property)">
+		<param name="Local" value="ns52\Attr_NeedsCriteriaA_criteria.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="OSZCode (Class)">
+		<param name="Local" value="ns52\Cls_OSZCode.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.OSZCode (Class)">
+		<param name="Local" value="ns52\Cls_OSZCode.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Package (Class)">
+		<param name="Local" value="schemaEgisso\Cls_Package.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.Package (Class)">
+		<param name="Local" value="schemaEgisso\Cls_Package.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Package.PackageID (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Package_packageID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PackageID (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Package_packageID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.PackageID (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Package_packageID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Package.Elements (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Package_elements.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Elements (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Package_elements.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.Elements (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Package_elements.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.Package (Class)">
+		<param name="Local" value="ns51\Cls_PackageA.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.PackageID (Property)">
+		<param name="Local" value="ns51\Attr_PackageA_packageID.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns51.Elements (Property)">
+		<param name="Local" value="ns51\Attr_PackageA_elements.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PassportRF (Class)">
+		<param name="Local" value="schemaEgisso\Cls_PassportRF.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.PassportRF (Class)">
+		<param name="Local" value="schemaEgisso\Cls_PassportRF.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PassportRF.Series (Property)">
+		<param name="Local" value="schemaEgisso\Attr_PassportRF_Series.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PassportRF.Number (Property)">
+		<param name="Local" value="schemaEgisso\Attr_PassportRF_Number.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PassportRF.IssueDate (Property)">
+		<param name="Local" value="schemaEgisso\Attr_PassportRF_IssueDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PassportRF.Issuer (Property)">
+		<param name="Local" value="schemaEgisso\Attr_PassportRF_Issuer.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns54.PassportRF (Class)">
+		<param name="Local" value="ns54\Cls_PassportRFA.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Patronymic (Class)">
+		<param name="Local" value="ns33\Cls_Patronymic.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns33.Patronymic (Class)">
+		<param name="Local" value="ns33\Cls_Patronymic.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PrsnInfo (Class)">
+		<param name="Local" value="schemaEgisso\Cls_PrsnInfo.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.PrsnInfo (Class)">
+		<param name="Local" value="schemaEgisso\Cls_PrsnInfo.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PrsnInfo.SNILS (Property)">
+		<param name="Local" value="schemaEgisso\Attr_PrsnInfo_SNILS.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PrsnInfo.FamilyName (Property)">
+		<param name="Local" value="schemaEgisso\Attr_PrsnInfo_FamilyName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PrsnInfo.FirstName (Property)">
+		<param name="Local" value="schemaEgisso\Attr_PrsnInfo_FirstName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PrsnInfo.Patronymic (Property)">
+		<param name="Local" value="schemaEgisso\Attr_PrsnInfo_Patronymic.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PrsnInfo.Gender (Property)">
+		<param name="Local" value="schemaEgisso\Attr_PrsnInfo_Gender.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PrsnInfo.BirthDate (Property)">
+		<param name="Local" value="schemaEgisso\Attr_PrsnInfo_BirthDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PrsnInfo.IdentityDoc (Property)">
+		<param name="Local" value="schemaEgisso\Attr_PrsnInfo_IdentityDoc.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.PrsnInfo (Class)">
+		<param name="Local" value="ns53\Cls_PrsnInfoA.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.SNILS (Property)">
+		<param name="Local" value="ns53\Attr_PrsnInfoA_SNILS.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.FamilyName (Property)">
+		<param name="Local" value="ns53\Attr_PrsnInfoA_FamilyName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.FirstName (Property)">
+		<param name="Local" value="ns53\Attr_PrsnInfoA_FirstName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.Patronymic (Property)">
+		<param name="Local" value="ns53\Attr_PrsnInfoA_Patronymic.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.Gender (Property)">
+		<param name="Local" value="ns53\Attr_PrsnInfoA_Gender.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.BirthDate (Property)">
+		<param name="Local" value="ns53\Attr_PrsnInfoA_BirthDate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.IdentityDoc (Property)">
+		<param name="Local" value="ns53\Attr_PrsnInfoA_IdentityDoc.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Reason_persons (Class)">
+		<param name="Local" value="schemaEgisso\Cls_Reason_persons.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.Reason_persons (Class)">
+		<param name="Local" value="schemaEgisso\Cls_Reason_persons.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Reason_persons.PrsnInfo (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Reason_persons_prsnInfo.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PrsnInfo (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Reason_persons_prsnInfo.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="schemaEgisso.PrsnInfo (Property)">
+		<param name="Local" value="schemaEgisso\Attr_Reason_persons_prsnInfo.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.Reason_persons (Class)">
+		<param name="Local" value="ns52\Cls_Reason_personsA.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.PrsnInfo (Property)">
+		<param name="Local" value="ns52\Attr_Reason_personsA_prsnInfo.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ServiceForm (Class)">
+		<param name="Local" value="ns52\Cls_ServiceForm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.ServiceForm (Class)">
+		<param name="Local" value="ns52\Cls_ServiceForm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ServiceForm.Amount (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_amount.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ServiceForm.MeasuryCode (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_measuryCode.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MeasuryCode (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_measuryCode.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.MeasuryCode (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_measuryCode.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ServiceForm.Content (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_content.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Content (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_content.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.Content (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_content.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ServiceForm.Comment (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_comment.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Comment (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_comment.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.Comment (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_comment.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ServiceForm.EquivalentAmount (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_equivalentAmount.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="EquivalentAmount (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_equivalentAmount.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns52.EquivalentAmount (Property)">
+		<param name="Local" value="ns52\Attr_ServiceForm_equivalentAmount.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="SNILS (Class)">
+		<param name="Local" value="ns53\Cls_SNILS.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ns53.SNILS (Class)">
+		<param name="Local" value="ns53\Cls_SNILS.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="LtHelp.hhc">
+		<param name="Local" value="LtHelp.chm::/LtHelp.hhc">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Site.hhc">
+		<param name="Local" value="LtExamples.chm::/Site.hhc">
+		</OBJECT>
+</UL>
+</BODY></HTML>
+

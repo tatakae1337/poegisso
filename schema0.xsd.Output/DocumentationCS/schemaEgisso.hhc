@@ -1,0 +1,2772 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Introduction">
+		<param name="Local" value="std/default.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Schema">
+		<param name="Local" value="schemaEgisso.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Classes">
+			<param name="Local" value="classList.htm#Classes">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ClassFactory">
+				<param name="Local" value="std/ClassFactory.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="std/ClassFactory.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="std/ClassFactory.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="std/ClassFactory.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="std/ClassFactory.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Assignment_info">
+				<param name="Local" value="schemaEgisso\Cls_Assignment_info.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Assignment_info">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ServiceForm">
+					<param name="Local" value="schemaEgisso\Attr_Assignment_info_serviceForm.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Monetary_form">
+					<param name="Local" value="schemaEgisso\Attr_Assignment_info_monetary_form.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Assignment_info">
+				<param name="Local" value="ns52\Cls_Assignment_infoA.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Assignment_info">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ServiceForm">
+					<param name="Local" value="ns52\Attr_Assignment_infoA_serviceForm.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Monetary_form">
+					<param name="Local" value="ns52\Attr_Assignment_infoA_monetary_form.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="BirthCertificate">
+				<param name="Local" value="schemaEgisso\Cls_BirthCertificate.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="BirthCertificate">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Series">
+					<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Series.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Number">
+					<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Number.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="IssueDate">
+					<param name="Local" value="schemaEgisso\Attr_BirthCertificate_IssueDate.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Issuer">
+					<param name="Local" value="schemaEgisso\Attr_BirthCertificate_Issuer.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="BirthCertificate">
+				<param name="Local" value="ns54\Cls_BirthCertificateA.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="BirthCertificate">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Series">
+					<param name="Local" value="ns54\Attr_BirthCertificateA_Series.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Number">
+					<param name="Local" value="ns54\Attr_BirthCertificateA_Number.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="IssueDate">
+					<param name="Local" value="ns54\Attr_BirthCertificateA_IssueDate.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Issuer">
+					<param name="Local" value="ns54\Attr_BirthCertificateA_Issuer.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="BirthDate">
+				<param name="Local" value="ns53\Cls_BirthDate.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="BirthDate">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CategoryID">
+				<param name="Local" value="ns52\Cls_CategoryID.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="CategoryID">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Data">
+				<param name="Local" value="ns55\Cls_Data.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Data">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Package">
+					<param name="Local" value="ns55\Attr_Data_package.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="DateFinish">
+				<param name="Local" value="ns52\Cls_DateFinish.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="DateFinish">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="DateStart">
+				<param name="Local" value="ns52\Cls_DateStart.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="DateStart">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Decision_date">
+				<param name="Local" value="ns52\Cls_Decision_date.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Decision_date">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Elements">
+				<param name="Local" value="ns51\Cls_Elements.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Elements">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Fact">
+					<param name="Local" value="ns51\Attr_Elements_fact.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Fact">
+				<param name="Local" value="ns51\Cls_Fact.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Fact">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ID">
+					<param name="Local" value="ns51\Attr_Fact_ID.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="OSZCode">
+					<param name="Local" value="ns51\Attr_Fact_OSZCode.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="MSZ_receiver">
+					<param name="Local" value="ns51\Attr_Fact_MSZ_receiver.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reason_persons">
+					<param name="Local" value="ns51\Attr_Fact_reason_persons.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="LMSZID">
+					<param name="Local" value="ns51\Attr_Fact_LMSZID.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="CategoryID">
+					<param name="Local" value="ns51\Attr_Fact_categoryID.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Decision_date">
+					<param name="Local" value="ns51\Attr_Fact_decision_date.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="DateStart">
+					<param name="Local" value="ns51\Attr_Fact_dateStart.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="DateFinish">
+					<param name="Local" value="ns51\Attr_Fact_dateFinish.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NeedsCriteria">
+					<param name="Local" value="ns51\Attr_Fact_needsCriteria.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Assignment_info">
+					<param name="Local" value="ns51\Attr_Fact_assignment_info.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="LastChanging">
+					<param name="Local" value="ns51\Attr_Fact_lastChanging.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FamilyName">
+				<param name="Local" value="ns33\Cls_FamilyName.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FamilyName">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FirstName">
+				<param name="Local" value="ns33\Cls_FirstName.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FirstName">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Gender">
+				<param name="Local" value="ns53\Cls_Gender.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Gender">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ID">
+				<param name="Local" value="ns52\Cls_ID.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ID">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IdentityDoc">
+				<param name="Local" value="schemaEgisso\Cls_IdentityDoc.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="IdentityDoc">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="PassportRF">
+					<param name="Local" value="schemaEgisso\Attr_IdentityDoc_PassportRF.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IdentityDoc">
+				<param name="Local" value="ns53\Cls_IdentityDocA.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="IdentityDoc">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="PassportRF">
+					<param name="Local" value="ns53\Attr_IdentityDocA_PassportRF.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IdentityDocA">
+				<param name="Local" value="ns53\Cls_IdentityDocAA.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="IdentityDocA">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="PassportRF">
+					<param name="Local" value="ns53\Attr_IdentityDocAA_PassportRF.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="BirthCertificate">
+					<param name="Local" value="ns53\Attr_IdentityDocAA_BirthCertificate.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="LMSZID">
+				<param name="Local" value="ns52\Cls_LMSZID.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="LMSZID">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Monetary_form">
+				<param name="Local" value="ns52\Cls_Monetary_form.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Monetary_form">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Amount">
+					<param name="Local" value="ns52\Attr_Monetary_form_amount.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="MSZ_receiver">
+				<param name="Local" value="schemaEgisso\Cls_MSZ_receiver.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="MSZ_receiver">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="SNILS">
+					<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_SNILS.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FamilyName">
+					<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_FamilyName.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FirstName">
+					<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_FirstName.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Patronymic">
+					<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_Patronymic.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Gender">
+					<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_Gender.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="BirthDate">
+					<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_BirthDate.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="IdentityDoc">
+					<param name="Local" value="schemaEgisso\Attr_MSZ_receiver_IdentityDoc.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="MSZ_receiver">
+				<param name="Local" value="ns52\Cls_MSZ_receiverA.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="MSZ_receiver">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="SNILS">
+					<param name="Local" value="ns52\Attr_MSZ_receiverA_SNILS.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FamilyName">
+					<param name="Local" value="ns52\Attr_MSZ_receiverA_FamilyName.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FirstName">
+					<param name="Local" value="ns52\Attr_MSZ_receiverA_FirstName.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Patronymic">
+					<param name="Local" value="ns52\Attr_MSZ_receiverA_Patronymic.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Gender">
+					<param name="Local" value="ns52\Attr_MSZ_receiverA_Gender.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="BirthDate">
+					<param name="Local" value="ns52\Attr_MSZ_receiverA_BirthDate.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="IdentityDoc">
+					<param name="Local" value="ns52\Attr_MSZ_receiverA_IdentityDoc.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="NeedsCriteria">
+				<param name="Local" value="schemaEgisso\Cls_NeedsCriteria.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NeedsCriteria">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="UsingSign">
+					<param name="Local" value="schemaEgisso\Attr_NeedsCriteria_usingSign.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Criteria">
+					<param name="Local" value="schemaEgisso\Attr_NeedsCriteria_criteria.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="NeedsCriteria">
+				<param name="Local" value="ns52\Cls_NeedsCriteriaA.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NeedsCriteria">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="UsingSign">
+					<param name="Local" value="ns52\Attr_NeedsCriteriaA_usingSign.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Criteria">
+					<param name="Local" value="ns52\Attr_NeedsCriteriaA_criteria.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="OSZCode">
+				<param name="Local" value="ns52\Cls_OSZCode.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="OSZCode">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Package">
+				<param name="Local" value="schemaEgisso\Cls_Package.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Package">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="PackageID">
+					<param name="Local" value="schemaEgisso\Attr_Package_packageID.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Elements">
+					<param name="Local" value="schemaEgisso\Attr_Package_elements.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Package">
+				<param name="Local" value="ns51\Cls_PackageA.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Package">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="PackageID">
+					<param name="Local" value="ns51\Attr_PackageA_packageID.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Elements">
+					<param name="Local" value="ns51\Attr_PackageA_elements.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="PassportRF">
+				<param name="Local" value="schemaEgisso\Cls_PassportRF.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="PassportRF">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Series">
+					<param name="Local" value="schemaEgisso\Attr_PassportRF_Series.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Number">
+					<param name="Local" value="schemaEgisso\Attr_PassportRF_Number.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="IssueDate">
+					<param name="Local" value="schemaEgisso\Attr_PassportRF_IssueDate.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Issuer">
+					<param name="Local" value="schemaEgisso\Attr_PassportRF_Issuer.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="PassportRF">
+				<param name="Local" value="ns54\Cls_PassportRFA.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="PassportRF">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Series">
+					<param name="Local" value="ns54\Attr_PassportRFA_Series.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Number">
+					<param name="Local" value="ns54\Attr_PassportRFA_Number.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="IssueDate">
+					<param name="Local" value="ns54\Attr_PassportRFA_IssueDate.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Issuer">
+					<param name="Local" value="ns54\Attr_PassportRFA_Issuer.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Patronymic">
+				<param name="Local" value="ns33\Cls_Patronymic.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Patronymic">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="PrsnInfo">
+				<param name="Local" value="schemaEgisso\Cls_PrsnInfo.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="PrsnInfo">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="SNILS">
+					<param name="Local" value="schemaEgisso\Attr_PrsnInfo_SNILS.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FamilyName">
+					<param name="Local" value="schemaEgisso\Attr_PrsnInfo_FamilyName.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FirstName">
+					<param name="Local" value="schemaEgisso\Attr_PrsnInfo_FirstName.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Patronymic">
+					<param name="Local" value="schemaEgisso\Attr_PrsnInfo_Patronymic.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Gender">
+					<param name="Local" value="schemaEgisso\Attr_PrsnInfo_Gender.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="BirthDate">
+					<param name="Local" value="schemaEgisso\Attr_PrsnInfo_BirthDate.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="IdentityDoc">
+					<param name="Local" value="schemaEgisso\Attr_PrsnInfo_IdentityDoc.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="PrsnInfo">
+				<param name="Local" value="ns53\Cls_PrsnInfoA.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="PrsnInfo">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="SNILS">
+					<param name="Local" value="ns53\Attr_PrsnInfoA_SNILS.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FamilyName">
+					<param name="Local" value="ns53\Attr_PrsnInfoA_FamilyName.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FirstName">
+					<param name="Local" value="ns53\Attr_PrsnInfoA_FirstName.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Patronymic">
+					<param name="Local" value="ns53\Attr_PrsnInfoA_Patronymic.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Gender">
+					<param name="Local" value="ns53\Attr_PrsnInfoA_Gender.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="BirthDate">
+					<param name="Local" value="ns53\Attr_PrsnInfoA_BirthDate.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="IdentityDoc">
+					<param name="Local" value="ns53\Attr_PrsnInfoA_IdentityDoc.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Reason_persons">
+				<param name="Local" value="schemaEgisso\Cls_Reason_persons.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reason_persons">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="PrsnInfo">
+					<param name="Local" value="schemaEgisso\Attr_Reason_persons_prsnInfo.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Reason_persons">
+				<param name="Local" value="ns52\Cls_Reason_personsA.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reason_persons">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="PrsnInfo">
+					<param name="Local" value="ns52\Attr_Reason_personsA_prsnInfo.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ServiceForm">
+				<param name="Local" value="ns52\Cls_ServiceForm.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ServiceForm">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Amount">
+					<param name="Local" value="ns52\Attr_ServiceForm_amount.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="MeasuryCode">
+					<param name="Local" value="ns52\Attr_ServiceForm_measuryCode.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Content">
+					<param name="Local" value="ns52\Attr_ServiceForm_content.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Comment">
+					<param name="Local" value="ns52\Attr_ServiceForm_comment.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="EquivalentAmount">
+					<param name="Local" value="ns52\Attr_ServiceForm_equivalentAmount.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="SNILS">
+				<param name="Local" value="ns53\Cls_SNILS.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="SNILS">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Clone.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\Equals.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlElement.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\FromXmlStream.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\GetBase.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\GetElementName.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectBase\NoBanner.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXml.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlFile.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:LtHelp.chm::API\CS\XmlObjectInterface\ToXmlStream.HTM">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Text">
+					<param name="Local" value="std/ElementText.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Enumerations">
+			<param name="Local" value="classList.htm#Enumerations">
+			</OBJECT>
+		<UL>
+		</UL>
+	</UL>
+</UL>
+<OBJECT type="text/sitemap">
+	<param name="Merge" value="LtHelp.chm::/LtHelp.hhc">
+	</OBJECT>
+</BODY>
+</HTML>
+
